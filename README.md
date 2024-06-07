@@ -1,4 +1,4 @@
-# Bati Finkelshtein's Developer Portfolio
+# Bati Finkelshtein Software Developer 
 
 👋 Hi there! I'm Bati Finkelshtein, a passionate software developer always eager to learn and grow in the tech industry. With a diverse skill set and a strong foundation in various programming languages and technologies, I've successfully completed numerous projects across different domains.
 
